@@ -12,7 +12,7 @@ Aplicação simples e funcional de lista de tarefas (To-Do List), desenvolvida c
 
 ---
 
-![Tela do aplicativo](https://github.com/mateusbrga/Lista-de-tarefas-React/raw/main/screenshot.png)
+![Tela do aplicativo](https://danyelasoares.github.io/todo-app-react/)
 
 ## ⚙️ Instalação e Execução
 
