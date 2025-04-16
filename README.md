@@ -11,7 +11,6 @@ Aplicação simples e funcional de **lista de tarefas** (To-Do List), desenvolvi
 
 ## 📜 Descrição
 
-<<<<<<< HEAD
 Este projeto tem como objetivo implementar uma aplicação simples de To-Do List. Ele permite que o usuário:
 
 - Adicione tarefas à lista
@@ -25,13 +24,7 @@ Ideal para quem está aprendendo os fundamentos do **React** e como organizar co
 
 ![Tela do aplicativo](https://github.com/DanyelaSoares/todo-app-react/blob/main/src/img/mytask.jpg)
 
-## ⚙️ Como rodar a aplicação localmente
-
-=======
-
 ## ⚙️ Instalação e Execução
-
-> > > > > > > 7b4b379517863b893b5b0cb9a7d9da277246779d
 
 1. Clone este repositório:
 
