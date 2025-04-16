@@ -1,5 +1,7 @@
 # 📝 MyTasker - Lista de Tarefas em React
 
+https://DanyelaSoares.github.io/todo-app-react/
+
 Aplicação simples e funcional de **lista de tarefas** (To-Do List), desenvolvida com **React** e **Tailwind CSS**. O projeto permite adicionar, listar e excluir tarefas, além de exibir um botão de logout na interface. Ideal para praticar fundamentos de React e organização de componentes.
 
 ## 🚀 Tecnologias Utilizadas
@@ -21,7 +23,7 @@ Ideal para quem está aprendendo os fundamentos do **React** e como organizar co
 
 ## 📸 Demonstração
 
-![Tela do aplicativo](./img/mytask.jpg)
+![Tela do aplicativo](https://github.com/DanyelaSoares/todo-app-react/blob/main/src/img/mytask.jpg)
 
 ## ⚙️ Como rodar a aplicação localmente
 
